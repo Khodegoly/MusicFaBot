@@ -1,6 +1,4 @@
-# Hi, I'm Alice! 👋
-
-I'm a Discord Bot Developer and here is mine Discord Music Bot
+# Hi, I'm NAZMI! 👋
 
 # Advance Discord Music Bot
 
